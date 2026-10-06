@@ -1,4 +1,4 @@
-<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/e4ef6ea4-256e-42f3-bbd5-f2bdb3c3f87d" /><h1 align="center">Hi, I'm Elnaz 👋</h1>
+<h1 align="center">Hi, I'm Elnaz 👋</h1>
 
 <p align="center">
   <strong>Robotics & Electrical Engineering</strong>
